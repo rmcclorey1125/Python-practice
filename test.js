@@ -1,6 +1,6 @@
-const name = "Ronan"
+const myName = "Ronan"
 const age = 30
 
-const nameAge = name + age
+const nameAge = myName + age
 
 console.log(nameAge)
